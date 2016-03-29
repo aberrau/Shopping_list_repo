@@ -1,3 +1,3 @@
-# Welcome to Github
+#Welcome to Github
 
-This is my test
+This is a shopping list to test github
